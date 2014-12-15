@@ -1,4 +1,3 @@
 osmtaskingmanagertour
 =====================
-
-Pictorial walk-through of the HOT Tasking Manager.
+Kind of ugly pictorial walk-through of the HOT Tasking Manager v2.
